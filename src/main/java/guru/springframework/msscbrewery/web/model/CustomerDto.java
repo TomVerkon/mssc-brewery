@@ -2,7 +2,6 @@ package guru.springframework.msscbrewery.web.model;
 
 import java.util.UUID;
 
-import guru.springframework.msscbrewery.web.model.BeerDto.BeerDtoBuilder;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
